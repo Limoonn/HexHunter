@@ -2,6 +2,8 @@
 
 HexHunter is a powerful, modern desktop utility designed for designers and developers. It allows you to instantly capture the hex color code of any pixel on your screen with a simple global hotkey and organize them into specific projects.
 
+![HexHunter Preview](preview.png)
+
 ## 🚀 Features
 
 *   **Global Hotkey Capture:** Press `Ctrl + Alt + h` anywhere on your screen to capture a color instantly.
@@ -44,3 +46,4 @@ If you are a developer, you can run the Python source code directly:
 
 ---
 *Built with ❤️ for pixel-perfect design.*
+
